@@ -1,0 +1,7 @@
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/MyFirstWebApp
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/appsettings.Development.json
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/appsettings.json
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/MyFirstWebApp.dll
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/MyFirstWebApp.deps.json
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/MyFirstWebApp.runtimeconfig.json
+/home/patricknick/development/MyFirstWebApp/bin/Release/net8.0/publish/MyFirstWebApp.pdb
